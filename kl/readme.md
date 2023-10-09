@@ -3,3 +3,10 @@
     - https://twitter.com/CA_Dem
     - https://twitter.com/FloridaGOP
 - `https://politicaladarchive.org/data/` -- links to TV ads for the 2016 elections. All english. would need to transcribe them using Whisper or some other model.
+
+
+
+https://developers.facebook.com/tools/explorer/
+https://developers.facebook.com/apps/1226273101372336/dashboard/
+
+https://www.latimes.com/projects/election-2020-trump-biden-ads-latino-voters/
